@@ -1,0 +1,17 @@
+ip address is a 32 address use to uniquely identify the device connected over the network
+192.168.1.1
+min:0.0.0.0
+max:255.255.255.255
+
+Genenrally ip address is mentioned in this way in most of the local computer
+192.168.1.1/24
+this /24 is the subnet mask which tells that the first 24 bits are network bit 
+and the other bits are the host bit 
+
+so for /24 as the subnet mask this notatoin is called CIDR notation
+ the number of devices that can be connected to the network is 
+    no of device =256-2=244
+    the address for example 
+    192.168.0.0 and 192.168.0.255
+    these two ip address are reserverd
+
