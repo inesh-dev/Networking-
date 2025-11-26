@@ -1,0 +1,58 @@
+What is IP Address
+IP stands for Internet Protocol. An IP address is a unique identifier assigned to every device on a network. The difference between a Static and Dynamic IP address lies in how long the assigned address remains the same. A Static IP address is a fixed address that is manually assigned to a device for a long period of time, where as a Dynamic IP address changes frequently, usually each time the device is restarted, and is automatically assigned.
+
+Static and Dynamic IP address
+Difference Between Static and Dynamic Address
+
+What is Static IP Address
+A Static IP address is an IP address that does not changed frequently or constantly it is reserved for a specific computer or device. This type of IP address does not dynamically change with time, but will only change through an action done by the user or the network administrator. Assigning Static IP address is common in servers, network devices or any device that has to have a fixed address that can be accessed from a distance.
+
+How to Get a Static IP Address
+In order to obtain a Static IP address there is a possibility of applying for it from the Internet Service Provider (ISP). This may be accompanied with the extra expense of getting the ISPs to provide static IP addresses since these often come with an added cost. For those who have their own physical infrastructure of the network, static IP addresses can be assigned in the settings through the device.
+
+When Static IPs are Needed
+Static IP addresses are especially important in cases where a device has to be quickly found over the internet on a permanent basis.
+
+Web Servers: A website must have one or more static IP addresses to be assigned to the domain always point to the correct server.
+Remote Access: Some of the devices that require a remote connection like the CCTV cameras or a VPN are preferable to be as static as possible.
+Hosting Servers: Game or email servers that are in constant use also need a static IP so that the services running in the background remain undisturbed.
+Secure Communications: Some devices that participate in secure communications might require static IPs to make the link stable and reliable.
+Advantages of Static IP Address
+Stable Connection: A static IP address stays the same, so your device or server always has the same address.
+Easy Remote Access: It makes it easier to connect to your device or server from anywhere because the address doesn’t change.
+Website Hosting: If you're hosting a website or email server, a static IP ensures it’s always found at the same address.
+Better Security: It’s easier to set up security like firewalls for a device with a static IP since the address is fixed.
+Disadvantages of Static IP Address
+Limited Number: There are fewer static IP addresses available, which can make them harder to get, especially for large networks.
+Higher Cost: Internet service providers (ISPs) often charge extra for static IP addresses compared to dynamic ones.
+Security Risks: Since the IP address is always the same, it could be easier for hackers to target your device or server.
+Manual Configuration: You need to set it up manually, and if something goes wrong, troubleshooting can be more complicated.
+What is Dynamic IP Address
+A Dynamic IP address is an IP address which is changed from time to time. In contrast to the static IP, an IPv6 address is obtained by DHCP server – (Dynamic Host Configuration Protocol) automatically. In the DHCP, a host receives an available IP address from the DHCP server for some period of time referred to as the lease time and the IP address given to the host may change. Dynamic IPs are more common for home and commercial appliances and other electronic devices for which it is not necessary to have a fixed (static) IP address.
+
+How to Get a Dynamic IP Address
+Dynamic IP addresses are those that are assigned to you by the ISP on a random and on a connecting basis. Dynamic IPs can be obtained without any specific request or change as most of the ISP’s offer them by default. Whenever one launches a connection to some web, automatically the DHCP server doles out an IP address from a series of IP addresses.
+
+Advantages of Dynamic IP Address
+More Available and Cheaper: Since there are more dynamic IPs and they cost less, they are more economical than static ones.
+Better Security: Dynamic IPs change each time you connect, making it harder for hackers to target your device.
+Easy to Use: You don’t have to worry about managing or setting up the IP, which makes it great for home use or people who aren't tech-savvy.
+Disadvantages of Dynamic IP Address
+Not Reliable for Some Services: Services like VPNs, VoIP (Voice over IP), and online gaming can be less reliable due to possible disruptions when the IP changes.
+Harder to Track Location: It’s more difficult for geolocation services to pinpoint your exact location because your IP keeps changing.
+Risk of Downtime: If something goes wrong with the network (e.g., the DHCP server fails), your connection could be down for a while.
+Challenges for Businesses: Companies using dynamic IPs may need to find ways to provide secure access for remote workers, as the IP changes often.
+Difference between Static and Dynamic IP Address
+Static IP Address	Dynamic IP Address
+It is provided by ISP(Internet Service Provider).	While it is provided by DHCP (Dynamic Host Configuration Protocol).
+Static IP address does not change any time, it means if a static IP address is provided then it can't be changed or modified.	While dynamic IP address change any time.
+Static IP address is less secure.	While in dynamic IP address, there is low amount of risk than static IP address's risk.
+Static IP address is difficult to designate.	While dynamic IP address is easy to designate.
+The device designed by static IP address can be traced.	But the device designed by dynamic IP address can't be traced.
+Static IP address is more stable than dynamic IP address.	While dynamic IP address is less stable than static IP address.
+The cost to maintain the static IP address is higher than dynamic IP address.	While the maintaining cost of dynamic IP address is less than static IP address.
+It is used where computational data is less confidential.	While it is used where data is more confidential and needs more security.
+Simplifies the troubleshooting as the IP is always the same.
+
+While dynamic IP increases the complexity of diagnosing the network issues.
+
