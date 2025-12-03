@@ -8,7 +8,7 @@ Understanding Domain Name System (DNS)
             Represented by a dot (.)
             It is the highest level in the DNS hierarchy
             Managed by ICANN (Internet Corporation for Assigned Names and Numbers)
-            Contains all Top-Level Domains (TLDs)
+    Contains all Top-Level Domains (TLDs).m098i7u
 
         Top-Level Domain (TLD)
             Examples: .com, .org, .net, .gov, .in
@@ -31,4 +31,4 @@ Understanding Domain Name System (DNS)
 
     Domain Registration
         While TLDs are owned by authorized organizations, they typically do not sell domains directly.
-        Instead, domain registrars (also known as brokers), such as GoDaddy, Namecheap, etc., handle the sale and management of second-level domains to the public.
+        Instead, domain registrars (also known as brokers), such as GoDaddy, Namecheap, etc., handle the sale and management of second-level domains to the public..
