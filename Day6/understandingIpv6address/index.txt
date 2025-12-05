@@ -1,0 +1,23 @@
+ipv6 address 
+it is a 128 bit ip address
+was desgned to overcome the scarcity of the ipv4 addresss
+it consist of 8 groups each group consist of four hexadecimal number
+for eg group1:group2:group:3  ........:group8
+the length of it is longer so many shortning triks are used
+ 0000 -> 0
+ 0->:
+ baaa:0000:caaa:....... -> baaa::caaa
+
+Structure
+The first 64 bit is used as the network address while the last 64 bit is used as the host address
+The first 64 bit is also divided into two parts
+First 48 bits are used for the network address and the remaining 16 bit are used as the host address
+
+2001:0db8:85a3:0000:0000:8a2e:0370:7334 
+-> This can be compressed to 2001:db8:85a3::8a2e:370:7334
+
+0000:0000:0000:0000:0000:0000:0000:0000 -> ::
+0000:0000:0000:0000:0000:0000:0000:0001 -> ::1 this is the localhost address
+
+here the compression is done to reduce the length of the ip address
+
