@@ -1,2 +1,4 @@
 DNS hijaking means redirecting wrong ip address to the given domain name 
 for eg www.google.com is redirected to the facebook.com 
+
+TODO:DNS hijaking was not sucessfull

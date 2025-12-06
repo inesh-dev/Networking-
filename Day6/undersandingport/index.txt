@@ -1,0 +1,35 @@
+port in  the network allows to run multiple service on the single ip
+Analogy 
+think of apartment as an ip address
+than the ports are flats of the apartment 
+this is not the very good analogy but it works 
+
+if port doesnot exist than we can run only one services over an ip 
+on a single ip we can have the various ports ranging from 
+     0 – 65535 (Total: 65,536 ports)
+         Categories:
+    Range	        Type	                Example Use
+    0 – 1023	    Well-known ports	    HTTP (80), HTTPS (443), FTP (21), SSH (22)
+    1024 – 49151	Registered ports	    Used by user-defined or registered applications
+    49152 – 65535	Dynamic/Private ports	Temporary connections (client-side)
+
+    Examples of Common Port Numbers
+        Service	    Port
+        HTTP	    80
+        HTTPS	    443
+        FTP	        21
+        SSH	        22
+        DNS	        53
+        SMTP    	25
+
+companies mainly use firewalls to secure the ports 
+for eg in an ecommerce company has a publicip 
+so port can range from   0 – 65535 (Total: 65,536 ports)
+here the company uses port 4000 for email handling 
+port 5000 for payment 
+this is even bad example  haha
+and other ports are uses less so comapny uses firewall to block the other ports  and just give access to handle request of two ports
+***chat gpt please refactor this example ***
+
+
+
