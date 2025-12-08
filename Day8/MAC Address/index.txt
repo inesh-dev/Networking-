@@ -1,0 +1,5 @@
+Mac address is the unique address that is already written in the Network interface by the manifactures
+so it is a 48 bit address used to address the Network
+router assigns ip based on the mac address
+if two devices has a same mac address than it can cause conflict in the network which may casue confusion in the router 
+elaborate more 

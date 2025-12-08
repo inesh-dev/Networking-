@@ -1,0 +1,1 @@
+A firewall is the network security system that controls and monitors the incomming and outgoing traffics based on the securty rules acting as the barrier between the trusted and the untrusted devices.

@@ -1,0 +1,7 @@
+Network interfce is the medium that allow us to connet the internet from the wifi
+the Network interfce are 
+wifi card 
+ethernet port 
+
+learned about the term Bluetooth thetring and USB thetring 
+ chat gpt exaplain in  brief  with the example 
