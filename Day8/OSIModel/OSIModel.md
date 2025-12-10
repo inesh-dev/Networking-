@@ -15,6 +15,7 @@ The Session Layer is responsible for **establishing, managing, and terminating a
 ## 4. Transport Layer
 
 The Transport Layer provides **end-to-end communication**, divides data into **segments**, ensures they are delivered correctly, and sends them to the Network Layer. It also **assigns ports** to the segments, e.g., TCP or UDP.
+segment is called in the TCP/IP model while datagram is used in the UDP protocol
 
 ## 5. Network Layer (if the devices are on two different networks)
 
@@ -27,3 +28,6 @@ At this layer, the **MAC address** is added and the data is called a **frame**. 
 ## 7. Physical Layer
 
 The Physical Layer is the **actual physical link** between two devices. It is responsible for transferring **raw bits (0s and 1s)** over the network medium, such as cables, fiber optics, or wireless signals.
+
+
+Note:After the Transport layer, data is NOT split again — but it is wrapped by other headers.

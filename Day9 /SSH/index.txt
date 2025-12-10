@@ -1,0 +1,15 @@
+SSH is a network protocol that allows you to securely connect to another device over a network and access its terminal (command line) remotely. It is widely used by system administrators, developers, and anyone who needs to manage remote servers safely.
+
+Key Features of SSH
+
+Secure Connection:
+SSH encrypts all the data sent between your device and the remote device, preventing eavesdropping and ensuring privacy.
+
+Remote Terminal Access:
+You can open a terminal session on the remote machine and run commands as if you were physically using it.
+
+Authentication:
+SSH uses a username and password, or optionally key-based authentication, to ensure only authorized users can connect.
+
+Port Forwarding and Tunneling:
+SSH can also forward network traffic securely, allowing secure access to services on the remote machine.

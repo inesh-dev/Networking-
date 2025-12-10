@@ -1,0 +1,2 @@
+https://medium.com/@abhirup.acharya009/understanding-tcp-and-udp-building-blocks-of-connectivity-ec96e208b852
+this is the best resource to understand how the tcp works for the complete beginner 
