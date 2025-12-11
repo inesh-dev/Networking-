@@ -12,4 +12,4 @@ Authentication:
 SSH uses a username and password, or optionally key-based authentication, to ensure only authorized users can connect.
 
 Port Forwarding and Tunneling:
-SSH can also forward network traffic securely, allowing secure access to services on the remote machine.
+SSH can also forward network traffic securely, allowing secure access to services on the remote machine.c
